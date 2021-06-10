@@ -1,0 +1,5 @@
+venv
+lvenv
+ip_list.txt
+nmap_scans_logs.txt
+error.log
